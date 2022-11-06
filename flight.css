@@ -1,0 +1,66 @@
+body{
+    
+    background-color:cyan;
+    font-family: showcard gothic;
+    color:red;
+    font-size: larger;
+    padding-left: 15%;
+    padding-top: 15%;
+    padding-right: 15%;
+    letter-spacing: 2.5px;
+
+}
+div{
+    background-color: rgb(0, 252, 55);
+    width :550px;
+    height: 230px;
+    vertical-align: middle;
+    border-radius: 5%;
+   
+    
+}
+input[name="firstName"]
+{
+    border-radius: 4px;
+    border: none;
+    width: 350px;
+    height: 23px;
+}
+input[name="lastName"]
+{
+    border-radius: 4px;
+    border: none;
+    width: 350px;
+    height: 23px;
+}
+input[name="address"]
+{
+    border-radius: 4px;
+    border: none;
+    width: 350px;
+    height: 23px;
+}
+input[name="Confirm"]
+{
+    background-color:rgb(0, 252, 55) ;
+    border: none;
+    border-radius: 4px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+    width: 90px;
+    height: 30px;
+    font-size: medium;
+    margin-left: -30px;
+}
+input[name="Cancel"]
+{
+    background-color:red ;
+    border: none;
+    border-radius: 4px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(0, 252, 55);
+    width: 90px;
+    height: 30px;
+    font-size: medium;
+    margin-left: 40px;
+}
